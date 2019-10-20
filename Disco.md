@@ -19,6 +19,7 @@ __Additional Key Words and Phrases:__
 
 <p>Scalable multiprocessors（可扩展的多处理器）, virtual machines（虚拟机）</p>
 补充知识点：可扩展性是指适应变化的能力。软件环境的变化（可能是业务环境，运行环境）导致软件要进行改动才能满足人们对它的要求，这种系统本身适应变化的能力就是可扩展性。
+
 ---
 
 __1.Introduction:__
